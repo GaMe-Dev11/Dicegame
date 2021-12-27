@@ -1,1 +1,1 @@
-# Dicegame
+# Dicegame in angular
